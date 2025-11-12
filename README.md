@@ -1,4 +1,4 @@
-# Images Picture Bed
+# images
 
 A GitHub repository for hosting and serving images. This repository acts as a picture bed (image CDN) where I upload images and access them via direct URLs.
 
